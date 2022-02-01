@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyIHKpg6bQD0VHTR14vbtk2xGPvYbEfJVnVGF0uG47ZXSlPWghNbzxghvsPYXSP/xSMX+DLjPhKh3Nz194D34Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Infrastructure\\Order.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1034807\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\1034807\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EventBus
+build_property.ProjectDir = D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\EventBus\

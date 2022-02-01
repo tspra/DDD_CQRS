@@ -1,0 +1,9 @@
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\EventBus\bin\Debug\netcoreapp3.1\EventBus.deps.json
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\EventBus\bin\Debug\netcoreapp3.1\EventBus.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\EventBus\bin\Debug\netcoreapp3.1\EventBus.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\EventBus\obj\Debug\netcoreapp3.1\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\EventBus\obj\Debug\netcoreapp3.1\EventBus.AssemblyInfoInputs.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\EventBus\obj\Debug\netcoreapp3.1\EventBus.AssemblyInfo.cs
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\EventBus\obj\Debug\netcoreapp3.1\EventBus.csproj.CoreCompileInputs.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\EventBus\obj\Debug\netcoreapp3.1\EventBus.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\EventBus\obj\Debug\netcoreapp3.1\EventBus.pdb

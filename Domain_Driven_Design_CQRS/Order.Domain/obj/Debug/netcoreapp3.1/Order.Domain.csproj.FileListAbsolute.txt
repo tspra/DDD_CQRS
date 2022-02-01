@@ -1,0 +1,13 @@
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\bin\Debug\netcoreapp3.1\Order.Domain.deps.json
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\bin\Debug\netcoreapp3.1\Order.Domain.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\bin\Debug\netcoreapp3.1\Order.Domain.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\bin\Debug\netcoreapp3.1\MediatRAbstraction.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\bin\Debug\netcoreapp3.1\MediatRAbstraction.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.csproj.AssemblyReference.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.AssemblyInfoInputs.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.AssemblyInfo.cs
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.csproj.CopyComplete
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Domain\obj\Debug\netcoreapp3.1\Order.Domain.pdb

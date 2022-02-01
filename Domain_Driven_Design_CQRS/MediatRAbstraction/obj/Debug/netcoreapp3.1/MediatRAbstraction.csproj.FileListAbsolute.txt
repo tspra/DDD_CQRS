@@ -1,0 +1,9 @@
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\MediatRAbstraction\bin\Debug\netcoreapp3.1\MediatRAbstraction.deps.json
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\MediatRAbstraction\bin\Debug\netcoreapp3.1\MediatRAbstraction.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\MediatRAbstraction\bin\Debug\netcoreapp3.1\MediatRAbstraction.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\MediatRAbstraction\obj\Debug\netcoreapp3.1\MediatRAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\MediatRAbstraction\obj\Debug\netcoreapp3.1\MediatRAbstraction.AssemblyInfoInputs.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\MediatRAbstraction\obj\Debug\netcoreapp3.1\MediatRAbstraction.AssemblyInfo.cs
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\MediatRAbstraction\obj\Debug\netcoreapp3.1\MediatRAbstraction.csproj.CoreCompileInputs.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\MediatRAbstraction\obj\Debug\netcoreapp3.1\MediatRAbstraction.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\MediatRAbstraction\obj\Debug\netcoreapp3.1\MediatRAbstraction.pdb

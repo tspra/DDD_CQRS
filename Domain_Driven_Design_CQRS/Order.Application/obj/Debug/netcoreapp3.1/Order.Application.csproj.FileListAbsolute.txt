@@ -1,0 +1,17 @@
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\bin\Debug\netcoreapp3.1\Order.Application.deps.json
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\bin\Debug\netcoreapp3.1\Order.Application.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\bin\Debug\netcoreapp3.1\Order.Application.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\bin\Debug\netcoreapp3.1\EventBus.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\bin\Debug\netcoreapp3.1\MediatRAbstraction.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\bin\Debug\netcoreapp3.1\Order.Domain.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\bin\Debug\netcoreapp3.1\EventBus.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\bin\Debug\netcoreapp3.1\MediatRAbstraction.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\bin\Debug\netcoreapp3.1\Order.Domain.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.csproj.AssemblyReference.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.AssemblyInfoInputs.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.AssemblyInfo.cs
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.csproj.CopyComplete
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.pdb

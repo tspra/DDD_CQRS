@@ -1,0 +1,15 @@
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Infrastructure.deps.json
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Infrastructure.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Infrastructure.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\bin\Debug\netcoreapp3.1\MediatRAbstraction.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Domain.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Domain.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\bin\Debug\netcoreapp3.1\MediatRAbstraction.pdb
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.AssemblyInfo.cs
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.csproj.CopyComplete
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.dll
+D:\Projects\Symplr\Use Cases\DDD_CQRS\Domain_Driven_Design_CQRS\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.pdb

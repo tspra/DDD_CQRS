@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Application\\Order.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\EventBus\\EventBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\EventBus\\EventBus.csproj",
+        "projectName": "EventBus",
+        "projectPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\EventBus\\EventBus.csproj",
+        "packagesPath": "C:\\Users\\1034807\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\EventBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1034807\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\MediatRAbstraction\\MediatRAbstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\MediatRAbstraction\\MediatRAbstraction.csproj",
+        "projectName": "MediatRAbstraction",
+        "projectPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\MediatRAbstraction\\MediatRAbstraction.csproj",
+        "packagesPath": "C:\\Users\\1034807\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\MediatRAbstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1034807\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Application\\Order.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Application\\Order.Application.csproj",
+        "projectName": "Order.Application",
+        "projectPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Application\\Order.Application.csproj",
+        "packagesPath": "C:\\Users\\1034807\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1034807\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\EventBus\\EventBus.csproj": {
+                "projectPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\EventBus\\EventBus.csproj"
+              },
+              "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\MediatRAbstraction\\MediatRAbstraction.csproj": {
+                "projectPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\MediatRAbstraction\\MediatRAbstraction.csproj"
+              },
+              "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Domain\\Order.Domain.csproj": {
+                "projectPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Domain\\Order.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Domain\\Order.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Domain\\Order.Domain.csproj",
+        "projectName": "Order.Domain",
+        "projectPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Domain\\Order.Domain.csproj",
+        "packagesPath": "C:\\Users\\1034807\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\Order.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1034807\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\MediatRAbstraction\\MediatRAbstraction.csproj": {
+                "projectPath": "D:\\Projects\\Symplr\\Use Cases\\DDD_CQRS\\Domain_Driven_Design_CQRS\\MediatRAbstraction\\MediatRAbstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
